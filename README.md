@@ -73,7 +73,6 @@ The following data cleaning steps were performed:
 
 - `Generative_AI_Student_Performance_EDA.ipynb` — Complete EDA notebook
 - `AI_Impact_on_Student_Performance.csv` — Dataset used for analysis
-- `EDA_Project_Presentation.pptx` — Project presentation
 - `README.md` — Project documentation
 
 ## 👨‍💻 Author
